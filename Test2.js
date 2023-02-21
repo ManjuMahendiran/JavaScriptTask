@@ -10,5 +10,6 @@ arrayOfName.forEach(function(value, index) {
 	}
 
 
-});
+}
+);
 
