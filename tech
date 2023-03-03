@@ -1,0 +1,9 @@
+Create Note = //button[@id='customer-contact-note-create-button']
+Type and Enter the Tag = //input[@placeholder=" Type and Enter the Tag"]
+Add Notes = //textarea[@id="description"]
+Cancel = //button[@class="btn btn-border-blue bold blue-text font-14 w-100"]
+WebElement Save = "//button[@class='btn btn-bg-blue font-14 w-100 pr-2 pl-2']";
+
+
+
+
